@@ -1,0 +1,2 @@
+(this["webpackJsonpbasic-redux"]=this["webpackJsonpbasic-redux"]||[]).push([[0],{14:function(e,t,n){},7:function(e,t,n){"use strict";n.r(t);n(1);var s=n(4),c=n.n(s),r=n(6),a=(n(14),n(0));c.a.render(Object(a.jsx)(r.a,{}),document.getElementById("root"))}},[[7,1,2]]]);
+//# sourceMappingURL=main.33149907.chunk.js.map
